@@ -1,0 +1,257 @@
+{
+    "autoDownloadPref": {
+        "message": "تنزيل الملفات غير المرتبطة بالمخطط تلقائيًا"
+    },
+    "autoDownloadTip": {
+        "message": "يحفظ الملفات في مجلد التنزيل الافتراضي. مفيد لتنزيل بث أثناء المشاهدة مثلاً. يعمل فقط عند إلغاء تحديد خيار 'تجاهل الروابط المباشرة لملفات الوسائط'. لا يعرض إشعارات لتجنب إزعاج المستخدم. استخدم قائمة حظر الروابط لمنع التنزيلات غير المرغوب فيها."
+    },
+    "blacklistPref": {
+        "message": "استخدام قائمة حظر المحتوى"
+    },
+    "blacklistTip": {
+        "message": "إدخال واحد لكل سطر، غير حساس لحالة الأحرف. يتعلق بأنواع البث/الملفات، وترويسات نوع المحتوى (Content-Type)، والروابط (URLs)، مما يعني أن الإضافة ستتجاهل أي روابط تتضمن هذه العبارات."
+    },
+    "buttonClick": {
+        "message": "وظيفة زر إجراء المتصفح"
+    },
+    "clearList": {
+        "message": "مسح قائمة الروابط"
+    },
+    "copyAll": {
+        "message": "نسخ جميع الروابط الظاهرة"
+    },
+    "copyMethod": {
+        "message": "نسخ رابط البث كـ"
+    },
+    "customCommandPref": {
+        "message": "معاملات إضافية لسطر الأوامر"
+    },
+    "customCtPref": {
+        "message": "كشف ترويسات إضافية لنوع المحتوى"
+    },
+    "customCtTip": {
+        "message": "إدخال واحد لكل سطر. غير حساس لحالة الأحرف."
+    },
+    "customExtPref": {
+        "message": "كشف امتدادات ملفات إضافية"
+    },
+    "customExtTip": {
+        "message": "إدخال واحد لكل سطر."
+    },
+    "deleteTooltip": {
+        "message": "انقر لحذف الرابط."
+    },
+    "disablePref": {
+        "message": "تعطيل الكشف"
+    },
+    "downloadDirectPref": {
+        "message": "تنزيل الملفات غير المرتبطة بالمخطط بدلاً من نسخ روابطها"
+    },
+    "downloaderPref": {
+        "message": "استخدام أداة تنزيل خارجية لـ yt-dlp"
+    },
+    "exportButton": {
+        "message": "تصدير"
+    },
+    "exportSettings": {
+        "message": "تصدير/استيراد الإعدادات من/إلى ملف JSON"
+    },
+    "extText": {
+        "message": "يكشف القوائم الفرعية والترجمات المستخدمة في البث، بما في ذلك الامتدادات والترويسات المخصصة. ينشئ أوامر جاهزة للأدوات."
+    },
+    "ffmpeg": {
+        "message": "أمر FFmpeg"
+    },
+    "file": {
+        "message": "ملف"
+    },
+    "fileExtension": {
+        "message": "امتداد الملف"
+    },
+    "filePref": {
+        "message": "تجاهل الروابط المباشرة لملفات الوسائط"
+    },
+    "fileSizePref": {
+        "message": "تجاهل ملفات الوسائط الأصغر من"
+    },
+    "filenamePref": {
+        "message": "استخدام عنوان التبويب كاسم للملف"
+    },
+    "filterInput": {
+        "message": "تصفية"
+    },
+    "headersPref": {
+        "message": "تضمين ترويسات إضافية"
+    },
+    "hlsdl": {
+        "message": "أمر hlsdl"
+    },
+    "importButton": {
+        "message": "استيراد"
+    },
+    "importButtonFailure": {
+        "message": "تعذر استيراد الإعدادات."
+    },
+    "kodiUrl": {
+        "message": "رابط Kodi"
+    },
+    "manifestPref": {
+        "message": "تجاهل البث"
+    },
+    "manifestTip": {
+        "message": "هذا هو الغرض الأساسي من الإضافة. قم بتعطيله إذا كنت تريد التقاط الملفات مباشرة أو استخدام امتدادات/أنواع محتوى مخصصة."
+    },
+    "multithreadPref": {
+        "message": "تنزيل أجزاء متعددة في نفس الوقت باستخدام yt-dlp"
+    },
+    "nm3u8dl": {
+        "message": "أمر N_m3u8DL-RE"
+    },
+    "noRestorePref": {
+        "message": "تعطيل استعادة الجلسة السابقة (مسح الإدخالات عند التشغيل)"
+    },
+    "notifCopiedText": {
+        "message": "تم نسخ الرابط/الروابط بنجاح:\n"
+    },
+    "notifCopiedTitle": {
+        "message": "تم نسخ الرابط/الروابط!"
+    },
+    "notifDetectPref": {
+        "message": "تعطيل إشعارات الكشف"
+    },
+    "notifDownErrorText": {
+        "message": "تعذر تنزيل الرابط:\n"
+    },
+    "notifDownErrorTitle": {
+        "message": "خطأ في التنزيل!"
+    },
+    "notifErrorText": {
+        "message": "تعذر نسخ الرابط/الروابط:\n"
+    },
+    "notifErrorTitle": {
+        "message": "خطأ في النسخ!"
+    },
+    "notifIncompCopiedText": {
+        "message": "تم نسخ الروابط بصيغة عادية لعدم التوافق مع الأداة المختارة:\n"
+    },
+    "notifManyText": {
+        "message": "تم الكشف عن بث جديد:\n"
+    },
+    "notifManyTitle": {
+        "message": "تم الكشف عن عدة بثوث!"
+    },
+    "notifPref": {
+        "message": "تعطيل جميع الإشعارات"
+    },
+    "notifText": {
+        "message": "تم الكشف عن $1 بث جديد:\n"
+    },
+    "notifTitle": {
+        "message": "تم الكشف عن بث!"
+    },
+    "openOptions": {
+        "message": "خيارات"
+    },
+    "openPopup": {
+        "message": "فتح نافذة الإضافة"
+    },
+    "openSidebar": {
+        "message": "فتح الشريط الجانبي للإضافة"
+    },
+    "placeholderCell": {
+        "message": "لا توجد روابط متاحة."
+    },
+    "player": {
+        "message": "المشغل الافتراضي"
+    },
+    "popupFilename": {
+        "message": "اسم الملف"
+    },
+    "popupSize": {
+        "message": "الحجم"
+    },
+    "popupSource": {
+        "message": "المصدر"
+    },
+    "popupTimestamp": {
+        "message": "الطابع الزمني"
+    },
+    "popupType": {
+        "message": "النوع"
+    },
+    "proxyPref": {
+        "message": "استخدام خادم وكيل HTTP"
+    },
+    "recentPref": {
+        "message": "عرض عدد معين من الإدخالات الأخيرة فقط"
+    },
+    "regexCommandPref": {
+        "message": "استخدام التعبيرات المنتظمة في الأوامر المخصصة"
+    },
+    "regexCommandTip": {
+        "message": "أدخل كـ نص، مثل ab+c. يتم الاستبدال في الأمر النهائي. سيؤدي ترك حقل الاستبدال فارغًا إلى إزالة المطابقة."
+    },
+    "regexWarning": {
+        "message": "تعبير منتظم غير صحيح."
+    },
+    "resetButton": {
+        "message": "إعادة تعيين الإعدادات"
+    },
+    "resetButtonConfirm": {
+        "message": "هل أنت متأكد من رغبتك في إعادة تعيين جميع الإعدادات؟"
+    },
+    "resetButtonLabel": {
+        "message": "إعادة تعيين جميع بيانات الإضافة (في حالة الطوارئ)"
+    },
+    "streamlink": {
+        "message": "أمر Streamlink"
+    },
+    "streamlinkOutput": {
+        "message": "إخراج Streamlink إلى"
+    },
+    "subtitlePref": {
+        "message": "تجاهل الترجمات"
+    },
+    "tabAll": {
+        "message": "الجلسة الحالية"
+    },
+    "tabPrevious": {
+        "message": "الجلسات السابقة"
+    },
+    "tabThis": {
+        "message": "التبويب الحالي"
+    },
+    "tableForm": {
+        "message": "إدخال في الجدول"
+    },
+    "timestampPref": {
+        "message": "إلحاق الطابع الزمني باسم الملف"
+    },
+    "tipHint": {
+        "message": "مرر فوق علامات الاستفهام لمعرفة المزيد عن الخيارات."
+    },
+    "titlePref": {
+        "message": "عرض عنوان التبويب كمصدر"
+    },
+    "url": {
+        "message": "رابط عادي"
+    },
+    "user1": {
+        "message": "أمر مخصص 1"
+    },
+    "user2": {
+        "message": "أمر مخصص 2"
+    },
+    "user3": {
+        "message": "أمر مخصص 3"
+    },
+    "userCommand": {
+        "message": "الأوامر المخصصة"
+    },
+    "userCommandTip": {
+        "message": "الحقول المتاحة:\n%url%\n%filename%\n%useragent%\n%referer%\n%cookie%\n%proxy%\n%origin%\n%tabtitle%\n%timestamp%"
+    },
+    "ytdlp": {
+        "message": "أمر yt-dlp"
+    }
+}
